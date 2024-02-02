@@ -111,3 +111,11 @@ li {
 i {
   pointer-events: none;
 }
+
+.hidden {
+  display: none;
+}
+
+.edit-mode {
+  color: #ccc;
+}
